@@ -38,5 +38,5 @@ ___
 
 ## Enigma
 ___
-
+To achieve an Enigma it takes a Person to fully master their Oktae and then invert his soul and achieve a convergence. This will prompt an evolution to occur.
 ___

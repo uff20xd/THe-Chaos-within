@@ -48,11 +48,12 @@ ___
 
 ### Style / Tactics
 ___
-
+Likes to control the opponents movements and bait them into a position where he can kill them with Red or Soul Inversion
 ___
 ### Scaling 
 ___
-
+His 5th Form: Red is the strongest Attack in the Verse. He is insanely strong and was only surpassed by Zeero. 
+He probably has the strongest ability in the verse or at least the most versatile one.
 ___
 
 
@@ -69,7 +70,7 @@ ___
 # Active Abilities
 ## Singularity Realisation
 ___
-Create a dense point of chaos which is then pulled into reality and used as a catalyst for a concept based on a function
+Create a dense point of chaos which is then pulled into reality and used as a catalyst for different concepts.
 ___
 ### 1st Form: Blue (Base)
 ___
@@ -97,7 +98,7 @@ It isnt imbued with a concept but instead erases the concepts and properties of 
 ___
 
 # Soul Inversion
-## TrueVelto Oktae: Sign of the Basilisk - Colours of Delight
+## True Velto Oktae: Sign of the Basilisk - Colours of Delight
 ___
 It steals all colours leaving only lines to decide if you still exist. The user can now destroy these lines striping the thing it hit from everything that makes it real removing it on a conceptual level. 
 Everything has become unstable and just a touch from the user can collapse it all.

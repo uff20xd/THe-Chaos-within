@@ -44,7 +44,8 @@ ___
 ___
 ### Backstory
 ___
-His soul was created in a mutated state which made him way more susceptible to natural overdrive. This became a problem when he became 6 and his soul started to rumble all of the sudden. He started crying as his soul collapsed and chaos took over his body. His known talent that had been seen from birth combined with the near limitless power from overdrive combined and destroyed the whole neighbourhood killing everyone including his parents. But he survived. This was new. There had never been a child that survived overdrive but the fact that he did showed everyone how scary talent could be. He was taken in by a Belgian state agent and at the age of 16 years got into the high class of the W.E.O.U.
+His soul was created in a mutated state which made him way more susceptible to natural overdrive. This became a problem when he became 6 and his soul started to rumble all of the sudden. He started crying as his soul collapsed and chaos took over his body. His known talent that had been seen from birth combined with the near limitless power from overdrive combined and destroyed the whole neighbourhood killing everyone including his parents. But he survived. 
+There had never been a child that survived overdrive but the fact that he did showed everyone how scary talent could be. He was taken in by a Belgian state agent and at the age of 16 years got into the high class of the W.E.O.U.
 ___
 
 ## Battle related
@@ -60,11 +61,7 @@ ___
 
 
 # Active Abilities
-## Direction Change (Base)
-___
-Can change the direction of any Vector.
-___
-## Kinetic Impact (Alpha):
+## Kinetic Impact (Base):
 ___
 Creates an Impact on any Object touched by the User
 ___
@@ -81,7 +78,7 @@ ___
 # Soul Inversion
 ## Incomplete Velto Oktae: Sign of the Basilisk - Death Simulation
 ___
-Forces Death upon the opposing person infinitely and only ends when the opponent complies with death.
+Simulates the concept of death an applies it over an area.
 ___
 
 
