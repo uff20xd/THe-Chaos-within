@@ -1,4 +1,5 @@
 ---
+id: Jimmy Jones
 aliases:
   - counter force
 tags:
@@ -32,14 +33,17 @@ ___
 ___
 
 ___
+
 ### Part in the story
 ___
 
 ___
+
 ### Relation to the Protagonist
 ___
 
 ___
+
 ### Backstory
 ___
 
@@ -51,10 +55,12 @@ ___
 ___
 
 ___
+
 ### Scaling 
 ___
 
 ___
+
 
 
 # Passive Abilities
@@ -69,6 +75,7 @@ ___
 ___
 
 ___
+
 
 # Soul Inversion
 ##  :Sign of the "" - ""
